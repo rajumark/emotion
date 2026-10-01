@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "emotion-kmp"
 include(":emotion")
+include(":demo")
